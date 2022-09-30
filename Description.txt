@@ -1,0 +1,1 @@
+Write a code to interface keypad with Atmega Microcontroller and display the numbers pressed on the keypad on the 7-Segment. Show its Proteus simulation. Implement hardware as well on breadboard and get it checked.
